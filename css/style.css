@@ -623,8 +623,9 @@ a {
     height: auto;
   }
   .buttondir1 > span > a > b {
-    text-align: center;
-    font-size: 25px;
+   display:flex;
+   justifay-content:center;   
+   font-size: 25px;
    font-family: raleway-semibold;
    color: #333333;
    word-wrap: break-word;
