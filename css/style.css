@@ -101,7 +101,7 @@ a {
     }
   @font-face {
     font-family: OpenSans-Semibold; 
-    src: url(fonts/Roboto-Bold.woff);
+    src: url(../fonts/Roboto-Bold.woff);
      }
   .textlink1 > b {
    position: relative;
@@ -193,7 +193,7 @@ a {
       border-radius: 10px 0px 0px 10px;
     }
     .icon {
-    background-image: url(images/buttonemail.png);
+    background-image: url(../images/buttonemail.png);
     background-repeat: no-repeat;
     width: 15%;
     height: 19.45%;
