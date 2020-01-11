@@ -289,34 +289,38 @@ a {
   .text-slider1{
    font-size: 36px;
    position: relative;
-   right: 110px;
+   right: 15vmin;
    width:200% !important;
    font-family: raleway-semibold;
    color: #2b2b2b;
+   padding-right:10px;
    }
    .text-slider2 {
     font-size: 36px;
    position: relative;
-   right: 110px;
+   right: 15vmin;
    width:200% !important;
    font-family: stalemate;
    color: #4a8052;
+   padding-right:10px;
    }
    .text-slider3 {
    font-size: 36px;
    position: relative;
-   right: 110px;
+   right: 15vmin;
    width:200% !important;
    font-family: raleway-semibold;
    color: #494d4a;
+   padding-right:10px;
    }
    .text-slider4 {
    font-size: 36px;
    position: relative;
-   right: 110px;
+   right: 15vmin;
    width:200% !important;
    font-family: stalemate;
    color: #494d4a;
+   padding-right:10px;
    }
    .text-slider5 {
    font-size: 36px;
@@ -330,7 +334,7 @@ a {
    .slider-content1{
      width: 200% !important;
      position: relative;
-     right: 110px;
+     right: 15vmin;
      font-size: 17px;
      color: #a5a5a5;
      font-family: raleway-semibold;
