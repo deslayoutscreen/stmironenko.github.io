@@ -683,8 +683,7 @@ a {
 .textcopiright > span > a {
    font-size:16px !important;
    font-family:ralewaybold !important;
-   border:3px solid grey !important;
-   background: transparent !important;
+    background: transparent !important;
    color: #242424 !important;
    text-align: center !important;
    padding:3px;
