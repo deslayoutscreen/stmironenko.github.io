@@ -680,7 +680,7 @@ a {
   .barfooter2 > span > a {
   color: #d0d0d0 !important;
   } 
-.sourcetemplate > a {
+.textcopiright > span > button > a {
    font-size:16px !important;
    font-family:ralewaybold !important;
    border:3px solid transparent !important;
