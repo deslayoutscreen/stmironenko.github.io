@@ -427,8 +427,8 @@ a {
     display: grid;
     -ms-grid-columns: 2.6fr 4fr 8fr 2.6fr;
     grid-template-columns: 2.6fr 4fr 8fr 2.6fr;
-    -ms-grid-rows: 140px 140px;
-    grid-template-rows: 140px 140px;
+    -ms-grid-rows: 180px 180px;
+    grid-template-rows: 180px 180px;
     margin: 0 auto;
     bottom: 900px;
   }
