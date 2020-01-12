@@ -270,7 +270,7 @@ a {
     height: auto;
     position: absolute;
     right:7.5vw;
-    top: 86px;
+    top: 93px;
     z-index: 3;
     text-align: center;
   }
@@ -510,9 +510,8 @@ a {
      }
      .studname {
     position: relative;
-    bottom:72px;
+    bottom:58px;
     right: 6.2vmin;
-    padding-top: 70px;
     color: #fb8122;
     font-size: 16px;
     font-family: Poppins-SemiBold;
