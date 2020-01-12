@@ -689,3 +689,10 @@ a {
    text-align: center !important;
    padding:3px;
  }
+.textcopiright > span > a:hover {
+   background: #807e7e !important;
+   color: #242424 !important;
+   text-align: center !important;
+   padding:3px;
+ }
+
