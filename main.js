@@ -146,13 +146,13 @@ function Sim(sldrId) {
     
     if(that.options.dots) {  // инициализация индикаторных точек
       let sum = '', diffNum;
-      for(let i=0; i<that.elemCount; i++) {
+      for(var i=0; i<that.elemCount; i++) {
         sum += '<span class="sim-dot"></span>'
       };
       that.indicatorDots.innerHTML = sum;
       that.indicatorDotsAll = that.sldrRoot.querySelectorAll('span.sim-dot');
       // Назначаем точкам обработчик события 'click'
-      for(let n=0; n<that.elemCount; n++) {
+      for(var n=0; n<that.elemCount; n++) {
         that.indicatorDotsAll[n].addEventListener('click', function() {
           diffNum = Math.abs(n - that.currentElement);
           if(n < that.currentElement) {
@@ -165,7 +165,7 @@ function Sim(sldrId) {
         }, false)
       };
       that.dotOff(0);  // точка[0] выключена, остальные включены
-      for(let i=1; i<that.elemCount; i++) {
+      for(var i=1; i<that.elemCount; i++) {
         that.dotOn(i)
       }
     }
