@@ -52,10 +52,8 @@ a {
     top: 34px;
     line-height: 1.5;
  }
-  .menu > span > a:hover {
-    color: #c7c7c7;
-  }
-  .menu > span > button  {
+  
+  .menu > span > a {
    margin-left: 5px;
    width:120px;
    height:45px;
