@@ -63,7 +63,8 @@ a {
    color: #ffffff;
    font-family: ralewaymedium;
    font-size:18px;
-   margin-left:70px;
+   position:absolute;
+   left:70px;
    padding:2%
   } 
   
