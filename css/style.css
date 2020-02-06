@@ -54,7 +54,7 @@ a {
    border-radius: 25px 25px;
    text-align: center;
    position: relative;
-   top: 3px;
+   top: 2px;
    left:1%;
    font-size:18px;
    outline:none;    
@@ -68,6 +68,10 @@ a {
    position: relative;
    top: 33px;
    left:25px;
+   word-wrap: break-word;
+   white-space: pre-wrap;
+   word-break: break-word;
+   overflow-wrap: break-word;
   } 
   
   .headercontent{
