@@ -54,9 +54,10 @@ a {
    border-radius: 25px 25px;
    text-align: center;
    position: relative;
-   top: 108px;
+   top: 48px;
    left:70px;
    font-size:18px;
+   outline:none;    
   } 
   .menu > span > a {
    font-size:140%;
