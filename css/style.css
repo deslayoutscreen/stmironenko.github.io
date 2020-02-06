@@ -54,7 +54,8 @@ a {
    border-radius: 25px 25px;
    text-align: center;
    position: relative;
-   top: 33px;
+   top: 0px;
+   left:25px;
    font-size:18px;
    outline:none;    
   } 
@@ -66,6 +67,7 @@ a {
    padding:0.3%;
    position: relative;
    top: 33px;
+   left:25px;
   } 
   
   .headercontent{
