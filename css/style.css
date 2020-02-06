@@ -67,11 +67,11 @@ a {
    position: relative;
    top: 35px;
   } 
-  .menu > span > button > a {
+  .menu > span > a {
    font-size:140%;
    color: #ffffff;
   } 
-  .menu > span > button:hover {
+  .menu > span > a:hover {
    background: #b55353;
    border: 3px solid #b55353;
    border-radius: 25px 25px;
