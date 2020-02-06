@@ -266,7 +266,7 @@ a {
     z-index: 2;
     left: 0;
     top: 91px;
-    
+    display:block;
   }
   div.sim-slider-arrow-left,
   div.sim-slider-arrow-right {
