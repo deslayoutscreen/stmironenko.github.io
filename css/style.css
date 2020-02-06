@@ -72,6 +72,7 @@ a {
    white-space: pre-wrap;
    word-break: break-word;
    overflow-wrap: break-word;
+   text-align:center;
   } 
   
   .headercontent{
