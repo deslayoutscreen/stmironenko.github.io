@@ -43,24 +43,17 @@ a {
     font-family: ralewaymedium; 
     src: url(../fonts/ralewaymedium.woff);
   }
-  .menu > span > h6 > a {
-    color: #ffffff;
-    font-size: 18px;
-    font-family: ralewaymedium;
-    padding: 12px;
-    position: relative;
-    top: 34px;
-    line-height: 1.5;
- }
-  
+ 
   .menu > span > h6 > a {
    margin-left: 5px;
    width:120px;
    height:45px;
-   background: #ff5f60;
-   border: 3px solid#ff5f60;
-   border-radius: 25px 25px;
+   font-family: ralewaymedium;
+   padding: 12px;
    color: #ffffff;
+   background: #ff5f60;
+   border: 3px solid #ff5f60;
+   border-radius: 25px 25px;
    text-align: center;
    position: relative;
    top: 35px;
@@ -69,14 +62,7 @@ a {
    font-size:140%;
    color: #ffffff;
   } 
-  .menu > span > a:hover {
-   background: #b55353;
-   border: 3px solid #b55353;
-   border-radius: 25px 25px;
-   -webkit-transition: 0.9s;
-   -o-transition: 0.9s;
-   transition: 0.9s;
-   } 
+  
   .headercontent{
     max-width: 1920px;
     position: relative;
