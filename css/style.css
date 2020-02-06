@@ -44,7 +44,7 @@ a {
     src: url(../fonts/ralewaymedium.woff);
   }
  
-  .menu > span > p > a {
+  .menu > span > dt > a {
    margin-left: 5px;
    width:120px;
    height:45px;
