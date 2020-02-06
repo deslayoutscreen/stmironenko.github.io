@@ -51,7 +51,8 @@ a {
    font-family: ralewaymedium;
    padding: 12px;
    color: #ffffff;
-   background: #ff5f60;
+   /*background: #ff5f60;*/
+   background:red;    
    border: 3px solid #ff5f60;
    border-radius: 25px 25px;
    text-align: center;
