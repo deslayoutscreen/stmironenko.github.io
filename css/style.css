@@ -43,7 +43,7 @@ a {
     font-family: ralewaymedium; 
     src: url(../fonts/ralewaymedium.woff);
   }
-   .menu > span > p > a{
+   .menu > span > ul > li > a{
    width:120px;
    height:45px;
    font-family: ralewaymedium;
