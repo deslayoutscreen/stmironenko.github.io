@@ -54,8 +54,8 @@ a {
    border-radius: 25px 25px;
    text-align: center;
    position: relative;
-   top: 0px;
-   left:25px;
+   top: 3px;
+   left:1%;
    font-size:18px;
    outline:none;    
   } 
