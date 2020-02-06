@@ -44,7 +44,6 @@ a {
     src: url(../fonts/ralewaymedium.woff);
   }
  .linksing{
-   margin-left: 5px;
    width:120px;
    height:45px;
    font-family: ralewaymedium;
@@ -64,8 +63,7 @@ a {
    color: #ffffff;
    font-family: ralewaymedium;
    font-size:18px;
-   position relative;
-   left:70px;
+   margin-left:70px;
    padding:2%
   } 
   
