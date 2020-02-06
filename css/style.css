@@ -43,7 +43,7 @@ a {
     font-family: ralewaymedium; 
     src: url(../fonts/ralewaymedium.woff);
   }
-   .linksing{
+ .linksing{
    margin-left: 5px;
    width:120px;
    height:45px;
@@ -57,13 +57,13 @@ a {
    position: relative;
    top: 38px;
    left:70px;
-   font-size:18pt;
+   font-size:18px;
   } 
   .menu > span > a {
    font-size:140%;
    color: #ffffff;
    font-family: ralewaymedium;
-   font-size:18pt;
+   font-size:18px;
    position relative;
    left:70px;
    padding:2%
