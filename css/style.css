@@ -55,7 +55,8 @@ a {
    border-radius: 25px 25px;
    text-align: center;
    position: relative;
-   top: 35px;
+   top: 38px;
+   left:70px;
    font-size:18pt;
   } 
   .menu > span > a {
@@ -63,6 +64,9 @@ a {
    color: #ffffff;
    font-family: ralewaymedium;
    font-size:18pt;
+   position relative;
+   left:70px;
+   padding:2%
   } 
   
   .headercontent{
