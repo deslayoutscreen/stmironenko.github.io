@@ -1,7 +1,7 @@
 
 function Sim(sldrId) {
 
-    let id = document.getElementById(sldrId);
+    var id = document.getElementById(sldrId);
     if(id) {
       this.sldrRoot = id
     }
@@ -35,7 +35,7 @@ function Sim(sldrId) {
     Sim.prototype.elemPrev = function(num) {
     num = num || 1;
     
-    let prevElement = this.currentElement;
+    var prevElement = this.currentElement;
     this.currentElement -= num;
     if(this.currentElement < 0) this.currentElement = this.elemCount-1;
     
@@ -57,7 +57,7 @@ function Sim(sldrId) {
     Sim.prototype.elemNext = function(num) {
     num = num || 1;
     
-    let prevElement = this.currentElement;
+    var prevElement = this.currentElement;
     this.currentElement += num;
     if(this.currentElement >= this.elemCount) this.currentElement = 0;
     
@@ -91,7 +91,7 @@ function Sim(sldrId) {
     
     // Variables
     that.currentElement = 0;
-    let bgTime = getTime();
+    var bgTime = getTime();
     
     // Functions
     function getTime() {
@@ -99,7 +99,7 @@ function Sim(sldrId) {
     };
     function setAutoScroll() {
       that.autoScroll = setInterval(function() {
-        let fnTime = getTime();
+        var fnTime = getTime();
         if(fnTime - bgTime + 10 > that.options.interval) {
           bgTime = fnTime; that.elemNext()
         }
