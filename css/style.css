@@ -56,7 +56,7 @@ a {
    text-align: center;
    position: relative;
    top: 35px;
-   left:3.3%;
+   left:4%;
    font-size:18px;
    outline:none;
    }
@@ -71,7 +71,7 @@ a > button {
    border-radius: 25px 25px;
    text-align: center;
    position: relative;
-   top: 2px;
+   top: 8px;
    left:1%;
    font-size:18px;
    outline:none; 
@@ -91,7 +91,7 @@ a > button {
    word-break: break-word;
    overflow-wrap: break-word;
    text-align:left;
-   line-height:0.8;
+   line-height:1.8;
   } 
   
   .headercontent{
