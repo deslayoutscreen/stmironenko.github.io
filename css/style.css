@@ -681,7 +681,7 @@ a > button {
    color: #9d9d9d !important;
    justify-content: center;
   }
-.buttondir1 > span > a > img {
+buttondir1 > span > a > img {
    max-width:55%;
    height:auto;
 }
@@ -697,7 +697,7 @@ a > button {
    font-family: Poppins-Regular;
    color: #9d9d9d !important;
   }
-.buttondir2 > span > a > img {
+buttondir2 > span > a > img {
    max-width:55%;
    height:auto;
 }
@@ -717,7 +717,7 @@ p{
    font-family: Poppins-Regular;
    color: #9d9d9d !important;
   }
- .buttondir3 > span > a > img {
+ buttondir3 > span > a > img {
    max-width:55%;
    height:auto;
 }
