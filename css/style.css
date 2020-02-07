@@ -44,7 +44,7 @@ a {
     src: url(../fonts/ralewaymedium.woff);
   }
 
-  .menu > span > a > button {
+  .menu > a > button {
    width:120px;
    height:45px;
    font-family: ralewaymedium;
@@ -55,7 +55,7 @@ a {
    border-radius: 25px 25px;
    text-align: center;
    position: relative;
-   top: 2px;
+   top: 35px;
    left:1%;
    font-size:18px;
    outline:none;
