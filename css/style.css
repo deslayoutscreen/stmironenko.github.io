@@ -701,6 +701,9 @@ a > button {
    max-width:55%;
    height:auto;
 }
+p{
+  5px;
+}
   .buttondir3 > span > a > b {
     text-align: left;
     font-size: 25px;
