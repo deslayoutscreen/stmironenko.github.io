@@ -43,11 +43,12 @@ a {
     font-family: ralewaymedium; 
     src: url(../fonts/ralewaymedium.woff);
   }
+
   .menu > span > a > button {
    width:120px;
    height:45px;
    font-family: ralewaymedium;
-   padding: 14px;
+   padding: 11px;
    color: #ffffff;
    background: #ff5f60;
    border: 3px solid #ff5f60;
@@ -76,10 +77,8 @@ a > button {
    font-size:18px;
    outline:none; 
    }
-.box{
-   line-height:2;
-}
-  .menu > span > a {
+
+ .menu > span > a {
    font-size:140%;
    color: #ffffff;
    font-family: ralewaymedium;
@@ -93,6 +92,7 @@ a > button {
    word-break: break-word;
    overflow-wrap: break-word;
    text-align:left;
+   line-height:20px;
   } 
   
   .headercontent{
