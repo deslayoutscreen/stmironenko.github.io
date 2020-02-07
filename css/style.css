@@ -702,7 +702,9 @@ a > button {
    font-family: raleway-semibold;
    color: #333333;
 }
-  
+p{
+padding:5px;
+} 
   .buttondir3 >span > a > .buttext { 
    text-align: left;
    font-size: 15px;
