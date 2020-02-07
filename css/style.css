@@ -690,7 +690,7 @@ a > button {
   }
   .buttondir2 >span > a > .buttext { 
    text-align: left;
-   font-size: 17px;
+   font-size: 15px;
    font-family: Poppins-Regular;
    color: #9d9d9d !important;
   }
@@ -707,7 +707,7 @@ p{
   
   .buttondir3 >span > a > .buttext { 
    text-align: left;
-   font-size: 17px;
+   font-size: 15px;
    font-family: Poppins-Regular;
    color: #9d9d9d !important;
   }
