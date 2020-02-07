@@ -91,7 +91,7 @@ a > button {
    word-break: break-word;
    overflow-wrap: break-word;
    text-align:left;
-   line-height:4;
+   line-height:0.8;
   } 
   
   .headercontent{
