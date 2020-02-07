@@ -681,8 +681,8 @@ a > button {
    color: #9d9d9d !important;
    justify-content: center;
   }
-buttondir1 > span > a > img {
-   max-width:55%;
+.buttondir1 > span > a > img {
+   width:20%;
    height:auto;
 }
   .buttondir2 > span > a > b {
@@ -697,8 +697,8 @@ buttondir1 > span > a > img {
    font-family: Poppins-Regular;
    color: #9d9d9d !important;
   }
-buttondir2 > span > a > img {
-   max-width:55%;
+.buttondir2 > span > a > img {
+   width:20%;
    height:auto;
 }
 p{
@@ -717,8 +717,8 @@ p{
    font-family: Poppins-Regular;
    color: #9d9d9d !important;
   }
- buttondir3 > span > a > img {
-   max-width:55%;
+ .buttondir3 > span > a > img {
+   width:20%;
    height:auto;
 }
   .textcopiright, .linkfooter, .barfooter2 {
