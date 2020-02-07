@@ -703,10 +703,7 @@ p{
    font-size: 25px;
    font-family: raleway-semibold;
    color: #333333;
-   word-wrap: break-word;
-   white-space:pre-wrap;
-   overflow-wrap: break-word;
-  }
+}
   
   .buttondir3 >span > a > .buttext { 
    text-align: left;
