@@ -453,9 +453,9 @@ a > button {
     bottom: 520px;
     display: grid;
     display: -ms-grid;
-    -ms-grid-columns: 2.5fr 3.8fr 3.8fr 3.8fr 2.5fr;
-    grid-template-columns: 2.5fr 3.8fr 3.8fr 3.8fr 2.5fr;
-    -ms-grid-rows: 490px 490px;
+    -ms-grid-columns: 2fr 4fr 4fr 4fr 2fr;
+    grid-template-columns: 2fr 4fr 4fr 4fr 2fr;
+    -ms-grid-rows: 490px 40px;
     grid-template-rows: 490px 490px;
     margin: 0 auto;
   }
