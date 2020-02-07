@@ -58,7 +58,7 @@ a {
    left:1%;
    font-size:18px;
    outline:none; 
-   line-height:20px;
+   line-height:2;
   } 
   .menu > span > a {
    font-size:140%;
