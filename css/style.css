@@ -453,10 +453,10 @@ a > button {
     bottom: 520px;
     display: grid;
     display: -ms-grid;
-    -ms-grid-columns: 2.7fr 4fr 4fr 4fr 2.7fr;
+    -ms-grid-columns: 2.5fr 3.8fr 3.8fr 3.8fr 2.5fr;
     grid-template-columns: 2fr 4fr 4fr 4fr 2fr;
-    -ms-grid-rows: 480px 480px;
-    grid-template-rows: 480px 480px;
+    -ms-grid-rows: 490px 490px;
+    grid-template-rows: 490px 490px;
     margin: 0 auto;
   }
   .footer {
@@ -688,8 +688,8 @@ a > button {
    color: #333333;
   }
   .buttondir2 >span > a > .buttext { 
-    text-align: center;
-    font-size: 17px;
+   text-align: left;
+   font-size: 17px;
    font-family: Poppins-Regular;
    color: #9d9d9d !important;
   }
@@ -699,12 +699,10 @@ a > button {
    font-family: raleway-semibold;
    color: #333333;
   }
-  p{
-    padding: 5px;
-  }
+  
   .buttondir3 >span > a > .buttext { 
-    text-align: center;
-    font-size: 17px;
+   text-align: left;
+   font-size: 17px;
    font-family: Poppins-Regular;
    color: #9d9d9d !important;
   }
