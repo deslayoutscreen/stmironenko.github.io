@@ -700,6 +700,7 @@ a > button {
    font-size: 25px;
    font-family: raleway-semibold;
    color: #333333;
+   word-wrap: break-word;
 }
 p{
 padding:5px;
@@ -709,6 +710,7 @@ padding:5px;
    font-size: 15px;
    font-family: Poppins-Regular;
    color: #9d9d9d !important;
+   word-wrap: break-word;
   }
  
   .textcopiright, .linkfooter, .barfooter2 {
