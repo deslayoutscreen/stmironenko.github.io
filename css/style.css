@@ -58,8 +58,10 @@ a {
    left:1%;
    font-size:18px;
    outline:none; 
+   }
+.box{
    line-height:2;
-  } 
+}
   .menu > span > a {
    font-size:140%;
    color: #ffffff;
