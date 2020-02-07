@@ -37,7 +37,7 @@ header {
   }
 a {
     text-decoration:none;
-    outline:none;
+    outline-style:none;
   }
   @font-face {
     font-family: ralewaymedium; 
