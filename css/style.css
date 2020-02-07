@@ -453,7 +453,7 @@ a > button {
     bottom: 520px;
     display: grid;
     display: -ms-grid;
-    -ms-grid-columns: 2fr 4fr 4fr 4fr 2fr;
+    -ms-grid-columns: 2fr 4.2fr 4fr 4fr 2fr;
     grid-template-columns: 2fr 4fr 4fr 4fr 2fr;
     -ms-grid-rows: 480px 480px;
     grid-template-rows: 480px 480px;
