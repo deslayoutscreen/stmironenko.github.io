@@ -457,7 +457,7 @@ a > button {
     grid-template-columns: 2fr 4.2fr 4fr 4fr 2fr;
     -ms-grid-rows: 480px 480px;
     grid-template-rows: 480px 480px;
-    
+    margin:0 auto;
   }
   .footer {
     max-width: 1920px;
