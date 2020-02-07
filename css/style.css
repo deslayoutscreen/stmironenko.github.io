@@ -37,7 +37,7 @@ header {
   }
 a {
     text-decoration:none;
-    outline-style:none;
+    outline-style:none !important;
   }
   @font-face {
     font-family: ralewaymedium; 
@@ -57,7 +57,7 @@ a {
    top: 35px;
    left:4%;
    font-size:18px;
-   outline:none;
+   outline:none !important;
    }
 a > button {
    width:140px;
@@ -73,7 +73,7 @@ a > button {
    top: 8px;
    left:1%;
    font-size:18px;
-   outline:none; 
+   outline:none !important; 
    }
 
  .menu > span > a {
