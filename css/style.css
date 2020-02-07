@@ -43,8 +43,7 @@ a {
     font-family: ralewaymedium; 
     src: url(../fonts/ralewaymedium.woff);
   }
-
-  .menu > a > button {
+   .menu > a > button {
    width:120px;
    height:45px;
    font-family: ralewaymedium;
@@ -403,8 +402,8 @@ a > button {
      display: -ms-flexbox;
      display: flex;
      -webkit-box-pack: center;
-         -ms-flex-pack: center;
-             justify-content: center;
+     -ms-flex-pack: center;
+     justify-content: center;
      font-family: raleway-semibold;
    }
    .slider-content5 > button {
@@ -421,8 +420,8 @@ a > button {
      display: -ms-flexbox;
      display: flex;
      -webkit-box-pack: center;
-         -ms-flex-pack: center;
-             justify-content: center;
+     -ms-flex-pack: center;
+     justify-content: center;
      font-family: raleway-semibold;
    }
    .slider-content1 > button >  a {
@@ -442,7 +441,7 @@ a > button {
     display: grid;
     -ms-grid-columns: 2.5fr 8fr 7fr;
     grid-template-columns: 2.5fr 8fr 7fr;
-    -ms-grid-rows: 480px 480px;
+    -ms-grid-rows: 580px 580px;
     grid-template-rows: 580px 580px;
     margin: 0 auto;
     bottom: 30px;
@@ -453,8 +452,8 @@ a > button {
     bottom: 520px;
     display: grid;
     display: -ms-grid;
-    -ms-grid-columns: 2fr 4.2fr 4fr 4fr 2fr;
-    grid-template-columns: 2fr 4.2fr 4fr 4fr 2fr;
+    -ms-grid-columns: 2fr 4fr 4fr 4fr 2fr;
+    grid-template-columns: 2fr 4fr 4fr 4fr 2fr;
     -ms-grid-rows: 480px 480px;
     grid-template-rows: 480px 480px;
     margin:0 auto;
