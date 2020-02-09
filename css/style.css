@@ -185,6 +185,7 @@ a > button {
     box-shadow: 0px -12px 5px -3px #183251;
     position: relative;
     bottom:80px;
+    -ms-bottom:10px;
     right: 32px;
     line-height: 100% !important;
   }
