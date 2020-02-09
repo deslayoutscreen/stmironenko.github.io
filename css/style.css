@@ -152,30 +152,8 @@ a {
    font-size: 17px;
    font-family: OpenSans-Semibold;
   }
-  .textlink1 > button  {
-   width:120px;
-   height:45px;
-   background: #ff5f60;
-   border: 3px solid#ff5f60;
-   border-radius: 25px 25px;
-   color: #ffffff;
-   margin-left: 5px;
-   margin-top:-3px;
-   float: left;
-  }
-  .textlink1 > button > a  {
-   font-size:140%;
-   color: #ffffff;
-   }
-  .textlink1 > button:hover {
-   background: #b55353;
-   border: 3px solid #b55353;
-   border-radius: 25px 25px;
-   -webkit-transition: 0.9s;
-   -o-transition: 0.9s;
-   transition: 0.9s;
-  } 
-  .mainimage > span > img {
+  
+ .mainimage > span > img {
   max-width: 100%;
   height:auto;
   display: -webkit-box;
