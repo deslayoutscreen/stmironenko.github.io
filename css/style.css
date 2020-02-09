@@ -681,7 +681,7 @@ a > button {
    color: #9d9d9d !important;
    }
 .buttondir1 {
- background: url("images/globalstudent.png");
+ background: url("../images/globalstudent.png");
  background-repeat:no-repeat; 
 }
 
