@@ -683,7 +683,7 @@ a > button {
 .buttondir1 {
  background: url("../images/globalstudent.png");
  background-repeat:no-repeat;
- width:50%;
+ width:200%;
  height:auto;   
 }
 
