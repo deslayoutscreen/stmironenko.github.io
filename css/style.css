@@ -186,8 +186,8 @@ a > button {
     position: relative;
     bottom:80px;
     right: 32px;
-    -webkit-position:relative;
-    -webkit-top:15%;
+    -ms-position:relative !important; 
+    -ms-top:15% !important;
     line-height: 100% !important;
   }
   .blockform > form > a {
