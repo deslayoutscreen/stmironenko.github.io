@@ -680,14 +680,7 @@ a > button {
    font-family: Poppins-Regular;
    color: #9d9d9d !important;
    }
-.buttondir1 {
- background: url("../images/globalstudent.png");
- background-repeat:no-repeat;
- width:200%;
- height:auto;   
-}
-
-  .buttondir2 > span > a > b {
+   .buttondir2 > span > a > b {
     text-align: left;
     font-size: 25px;
    font-family: raleway-semibold;
