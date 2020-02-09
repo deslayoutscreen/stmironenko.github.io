@@ -679,8 +679,10 @@ a > button {
    font-size: 15px;
    font-family: Poppins-Regular;
    color: #9d9d9d !important;
-   
-  }
+   }
+.buttondir1 > span > a > img {
+  margin:0 auto;
+}
 
   .buttondir2 > span > a > b {
     text-align: left;
@@ -706,7 +708,7 @@ a > button {
    
 }
 p{
-padding:5px;
+   padding:5px;
 } 
   .buttondir3 >span > a > .buttext { 
    text-align: left;
