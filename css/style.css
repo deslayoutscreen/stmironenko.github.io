@@ -680,8 +680,9 @@ a > button {
    font-family: Poppins-Regular;
    color: #9d9d9d !important;
    }
-.buttondir1 > span > a > img {
-  
+.buttondir1 {
+ background: url("images/globalstudent.png");
+ background-repeat:no-repeat; 
 }
 
   .buttondir2 > span > a > b {
