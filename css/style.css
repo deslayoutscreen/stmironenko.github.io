@@ -60,7 +60,7 @@ a {
    font-size:18px;
    outline:none !important;
    }
-a > button {
+   a > button {
    width:140px;
    height:45px;
    font-family: ralewaymedium;
@@ -71,12 +71,27 @@ a > button {
    border-radius: 25px 25px;
    text-align: center;
    position: relative;
-   top: 8px;
+   top: 7px;
    left:1%;
    font-size:18px;
    outline:none !important; 
    }
-
+.textlink1 > a > button {
+   width:140px;
+   height:45px;
+   font-family: ralewaymedium;
+   padding: 10px;
+   color: #ffffff;
+   background: #ff5f60;
+   border: 3px solid #ff5f60;
+   border-radius: 25px 25px;
+   text-align: center;
+   position: relative;
+   bottom: 7px;
+   left:1%;
+   font-size:18px;
+   outline:none !important; 
+   }
  .menu > span > a {
    font-size:140%;
    color: #ffffff;
