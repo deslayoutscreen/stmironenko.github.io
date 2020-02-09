@@ -682,7 +682,9 @@ a > button {
    }
 .buttondir1 {
  background: url("../images/globalstudent.png");
- background-repeat:no-repeat; 
+ background-repeat:no-repeat;
+ width:100%;
+ height:auto;   
 }
 
   .buttondir2 > span > a > b {
