@@ -87,7 +87,7 @@ a {
    border-radius: 25px 25px;
    text-align: center;
    position: relative;
-   bottom: 7px;
+   top: -4px;
    left:1%;
    font-size:18px;
    outline:none !important; 
