@@ -682,6 +682,7 @@ a > button {
    }
 .buttondir1 > span > a > img {
   justify-content:center;
+  display:none;
 }
 
   .buttondir2 > span > a > b {
